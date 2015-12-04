@@ -16,4 +16,5 @@
   -->
 
 <Context>
+	<Parameter name="message" value="Hello World"/>
 </Context>
